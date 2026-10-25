@@ -1,0 +1,12 @@
+Experiment: Git and GitHub Collaboration Workflow
+
+Activities:
+1. Initialize a local Git repository.
+2. Connect the repository to GitHub.
+3. Create and switch branches.
+4. Commit changes with meaningful messages.
+5. Push a feature branch and create a pull request.
+6. Review and merge the pull request.
+
+Conclusion:
+Git and GitHub help developers track changes and collaborate.
